@@ -26,5 +26,5 @@ TextBlob - это библиотека Python (2 и 3) для обработки
 >  
 >  for sentence in blob.sentences:
 >      print(sentence.sentiment.polarity)
->  # 0.060
->  # -0.341
+>  **0.060**
+>  **-0.341**
